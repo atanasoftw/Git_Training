@@ -1,7 +1,0 @@
-Hello this is SSH + token connection
-
-Test file for download
-
-
-
-And this is another commit from local machine.
